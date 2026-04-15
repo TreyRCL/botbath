@@ -1,0 +1,8 @@
+{
+  "name": "botbath-starter",
+  "version": "1.0.0",
+  "description": "AI bots rate your cat",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
